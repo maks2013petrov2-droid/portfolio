@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    color:red;
+    box-shadow:5px 5px 5px 0 gray;
+    width: 20px;
+    height:40px;
+}
+.Lev{
+   border:4px dotted blue;
+   width:500px;height: 140зчx;
+   background-color:aqua;
+   font-size:29px;
+}
+li{
+    text-align:100px;
+    color:black;
+}
+
+.Skate:hover{
+    transform: translateY(50px);
+}
+
+
+body {
+    font-family: sans-serif;
+}
+html{
+    background-color: blue;
+}
+body{
+    background-color: blueviolet;
+}
+div{
+    color:yellow;
+}
+a{
+    text-decoration:none;
+}
+
+body {
+    font-family: sans-serif;
+}
+h1{
+    background-image: linear-gradient(green, yellow);
+    width: 200px;
+}
+.words{
+    background-image:linear-gradient(yellow,red);
+    font-size:30px;
+    width:700px;
+   
+
+}
+
